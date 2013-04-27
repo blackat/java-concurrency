@@ -12,10 +12,12 @@ public final class ClientExecutor {
     /**
      * Private constructor.
      */
-    private ClientExecutor() {}
+    private ClientExecutor() {
+    }
 
     /**
      * Main method
+     *
      * @param args command line arguments
      */
     public static void main(final String[] args) {

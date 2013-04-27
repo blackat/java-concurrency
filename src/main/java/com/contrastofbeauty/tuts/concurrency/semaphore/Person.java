@@ -27,8 +27,8 @@ public class Person implements Runnable {
     /**
      * Constructor.
      *
-     * @param machine semaphore to acquire the resource
-     * @param personName  name of the person
+     * @param machine    semaphore to acquire the resource
+     * @param personName name of the person
      */
     public Person(final Semaphore machine, final String personName) {
         cashMachine = machine;
