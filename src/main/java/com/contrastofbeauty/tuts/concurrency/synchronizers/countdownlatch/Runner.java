@@ -1,4 +1,4 @@
-package com.contrastofbeauty.tuts.concurrency.countdownlatch;
+package com.contrastofbeauty.tuts.concurrency.synchronizers.countdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 

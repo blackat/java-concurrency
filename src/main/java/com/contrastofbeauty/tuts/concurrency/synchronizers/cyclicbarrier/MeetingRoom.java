@@ -1,4 +1,4 @@
-package com.contrastofbeauty.tuts.concurrency.cyclicbarrier;
+package com.contrastofbeauty.tuts.concurrency.synchronizers.cyclicbarrier;
 
 /**
  * A meeting room represented by a thread.

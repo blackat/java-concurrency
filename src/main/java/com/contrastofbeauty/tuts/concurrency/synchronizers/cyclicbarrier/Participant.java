@@ -1,4 +1,4 @@
-package com.contrastofbeauty.tuts.concurrency.cyclicbarrier;
+package com.contrastofbeauty.tuts.concurrency.synchronizers.cyclicbarrier;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

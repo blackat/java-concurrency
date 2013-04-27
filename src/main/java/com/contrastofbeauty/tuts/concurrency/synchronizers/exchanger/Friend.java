@@ -1,4 +1,4 @@
-package com.contrastofbeauty.tuts.concurrency.exchanger;
+package com.contrastofbeauty.tuts.concurrency.synchronizers.exchanger;
 
 import java.util.concurrent.Exchanger;
 

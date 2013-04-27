@@ -1,4 +1,4 @@
-package com.contrastofbeauty.tuts.concurrency.semaphore;
+package com.contrastofbeauty.tuts.concurrency.synchronizers.semaphore;
 
 import java.util.concurrent.Semaphore;
 
